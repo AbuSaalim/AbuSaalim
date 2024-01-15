@@ -3,6 +3,19 @@
 <h1 align="center">Hi 👋, I'm Ansari Abu Salim</h1>
 <h3 align="center">I am a frontend developer.</h3>
 
+<div style="display:flex; align-items:center; justify-content:space-between;">
+  <div>
+     <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="400" />
+  </div>
+<div>
+  
+- 🔭 I’m currently working on [Bhaijaan dhaba](https://bhaijaandhaba.in/)
+
+- 🌱 I’m currently learning **Backend**
+
+- 📫 How to reach me **salim.whitestone@gmail.com**
+</div>
+</div>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abusaalim&label=Profile%20views&color=0e75b6&style=flat" alt="abusaalim" /> </p>
@@ -11,11 +24,6 @@
 
 <p align="left"> <a href="https://twitter.com/abu__salim_" target="blank"><img src="https://img.shields.io/twitter/follow/abu__salim_?logo=twitter&style=for-the-badge" alt="abu__salim_" /></a> </p>
 
-- 🔭 I’m currently working on [Bhaijaan dhaba](https://bhaijaandhaba.in/)
-
-- 🌱 I’m currently learning **Backend**
-
-- 📫 How to reach me **salim.whitestone@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
