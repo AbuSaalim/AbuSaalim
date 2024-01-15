@@ -4,9 +4,6 @@
 <h3 align="center">I am a frontend developer.</h3>
 
 <div style="display:flex; align-items:center; justify-content:space-between;">
-  <div>
-     <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="400" />
-  </div>
 <div>
   
 - 🔭 I’m currently working on [Bhaijaan dhaba](https://bhaijaandhaba.in/)
@@ -15,6 +12,9 @@
 
 - 📫 How to reach me **salim.whitestone@gmail.com**
 </div>
+  <div>
+     <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="400" />
+  </div>
 </div>
 
 
